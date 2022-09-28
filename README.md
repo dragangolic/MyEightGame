@@ -1,2 +1,1 @@
-# MyEightGame
 Slot Machine
